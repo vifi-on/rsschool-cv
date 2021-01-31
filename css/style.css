@@ -20,7 +20,6 @@ html {
 body {
   font-family: 'Montserrat', sans-serif;
   font-size: var(--adaptiveFontSize);
-  /* font-size: 1.6rem; */
   color: var(--primaryTextColor);
 }
 
@@ -72,7 +71,7 @@ body {
 
 .card__subtitle {
   display: inline-block;
-  width: 6rem;
+  width: 8rem;
 }
 
 @media(max-width: 400px) {
@@ -111,7 +110,6 @@ body {
 .footer {
   background-color: var(--bgColor);
   color: var(--secondaryTextColor);
-  /* padding: 1rem 0; */
 
   text-align: center;
 }
